@@ -6,4 +6,5 @@ function helloWorld() {
 
 function secondFunction() {
   alert("this is no 2");
+  alert("change1");
 }
